@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Yishuai Liu
+A simple demo, By Yishuai. for DMIT2018
